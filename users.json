@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Adm",
+        "sobrenome": "Adm",
+        "email": "adm@adm",
+        "password": "adm",
+        "cargo": "adm",
+        "dep": "adm"
+    },
+    {
+        "email": "paulo@code.com",
+        "password": "123"
+    }
+  ]
+  
